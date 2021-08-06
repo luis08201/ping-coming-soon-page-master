@@ -169,6 +169,7 @@ body {
 }
 .footer__credits {
   color: var(--gray);
+  margin-bottom: 5px;
 }
 @media screen and (max-width: 425px) {
   .main__footer {
